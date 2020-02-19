@@ -1,0 +1,677 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1600px;
+	 height: 1811px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 1811px;
+	 z-index:1;
+} 
+
+ #Shape167 
+{ 
+	 left: -2px; 
+	 top: 1268px; 
+	 position: absolute; 
+	 width: 1603px;
+	 height: 544px;
+	 z-index:2;
+} 
+
+ #Layer472 
+{ 
+	 left: 1173px; 
+	 top: 1347px; 
+	 position: absolute; 
+	 width: 427px;
+	 height: 446px;
+	 z-index:3;
+} 
+
+ #UEC2018AllRightsRese 
+{ 
+	 left: 887px; 
+	 top: 1664px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 12px;
+	 z-index:4;
+} 
+
+ #AboutUsUECisanewtype 
+{ 
+	 left: 889px; 
+	 top: 1505px; 
+	 position: absolute; 
+	 width: 448px;
+	 height: 126px;
+	 z-index:5;
+} 
+
+ #Shape161 
+{ 
+	 left: 255px; 
+	 top: 1600px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 49px;
+	 z-index:6;
+} 
+
+ #Shape161copy 
+{ 
+	 left: 254px; 
+	 top: 1594px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 57px;
+	 z-index:7;
+} 
+
+ #DownloadWhitePaper 
+{ 
+	 left: 310px; 
+	 top: 1619px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 9px;
+	 z-index:8;
+} 
+
+ #simple42512copy 
+{ 
+	 left: 277px; 
+	 top: 1613px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:9;
+} 
+
+ #simple42512 
+{ 
+	 left: 277px; 
+	 top: 1613px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:10;
+} 
+
+ #Shape163 
+{ 
+	 left: 733px; 
+	 top: 1603px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:11;
+} 
+
+ #Shape163copy 
+{ 
+	 left: 683px; 
+	 top: 1603px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:12;
+} 
+
+ #Shape163copy2 
+{ 
+	 left: 632px; 
+	 top: 1603px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:13;
+} 
+
+ #Shape163copy3 
+{ 
+	 left: 581px; 
+	 top: 1603px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:14;
+} 
+
+ #Shape163copy4 
+{ 
+	 left: 530px; 
+	 top: 1603px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:15;
+} 
+
+ #Layer476 
+{ 
+	 left: 745px; 
+	 top: 1616px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:16;
+} 
+
+ #Layer459 
+{ 
+	 left: 697px; 
+	 top: 1614px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 17px;
+	 z-index:17;
+} 
+
+ #Twitter128Copy 
+{ 
+	 left: 595px; 
+	 top: 1617px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 16px;
+	 z-index:18;
+} 
+
+ #Facebook128 
+{ 
+	 left: 547px; 
+	 top: 1615px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 19px;
+	 z-index:19;
+} 
+
+ #play512 
+{ 
+	 left: 645px; 
+	 top: 1619px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 13px;
+	 z-index:20;
+} 
+
+ #Shape161_0 
+{ 
+	 left: 254px; 
+	 top: 1518px; 
+	 position: absolute; 
+	 width: 527px;
+	 height: 57px;
+	 z-index:21;
+} 
+
+ #Shape161copy2 
+{ 
+	 left: 623px; 
+	 top: 1524px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 46px;
+	 z-index:22;
+} 
+
+ #EnterYourEmailAddres 
+{ 
+	 left: 291px; 
+	 top: 1540px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 11px;
+	 z-index:23;
+} 
+
+ #subscribe 
+{ 
+	 left: 663px; 
+	 top: 1542px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 9px;
+	 z-index:24;
+} 
+
+ #Shape171copy28 
+{ 
+	 left: 76px; 
+	 top: 731px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 46px;
+	 z-index:25;
+} 
+
+ #Shape171copy30 
+{ 
+	 left: 134px; 
+	 top: 616px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 42px;
+	 z-index:26;
+} 
+
+ #Shape171copy22 
+{ 
+	 left: 979px; 
+	 top: 1059px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 79px;
+	 z-index:27;
+} 
+
+ #Shape171copy8 
+{ 
+	 left: 1532px; 
+	 top: 524px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:28;
+} 
+
+ #Shape171copy7 
+{ 
+	 left: 1355px; 
+	 top: 505px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 83px;
+	 z-index:29;
+} 
+
+ #Shape171copy19 
+{ 
+	 left: 1302px; 
+	 top: 292px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 112px;
+	 z-index:30;
+} 
+
+ #Shape171copy2 
+{ 
+	 left: 1385px; 
+	 top: 203px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 77px;
+	 z-index:31;
+} 
+
+ #Shape171copy4 
+{ 
+	 left: 1193px; 
+	 top: 198px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:32;
+} 
+
+ #Shape168copy6 
+{ 
+	 left: 966px; 
+	 top: 73px; 
+	 position: absolute; 
+	 width: 1951px;
+	 height: 1865px;
+	 z-index:33;
+} 
+
+ #Shape168copy7 
+{ 
+	 left: 966px; 
+	 top: 373px; 
+	 position: absolute; 
+	 width: 2054px;
+	 height: 1852px;
+	 z-index:34;
+} 
+
+ #Shape168copy8 
+{ 
+	 left: -1647px; 
+	 top: -434px; 
+	 position: absolute; 
+	 width: 2054px;
+	 height: 1852px;
+	 z-index:35;
+} 
+
+ #Shape168copy9 
+{ 
+	 left: -1587px; 
+	 top: -219px; 
+	 position: absolute; 
+	 width: 2054px;
+	 height: 1852px;
+	 z-index:36;
+} 
+
+ #Shape171copy5 
+{ 
+	 left: -2px; 
+	 top: 377px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 79px;
+	 z-index:37;
+} 
+
+ #Shape171copy10 
+{ 
+	 left: 938px; 
+	 top: 953px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:38;
+} 
+
+ #Shape171copy9 
+{ 
+	 left: 1018px; 
+	 top: 1242px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:39;
+} 
+
+ #FAQWhatistheProducti 
+{ 
+	 left: 343px; 
+	 top: 262px; 
+	 position: absolute; 
+	 width: 754px;
+	 height: 905px;
+	 z-index:40;
+} 
+
+ #VectorSmartObjectcop 
+{ 
+	 left: 302px; 
+	 top: 339px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 8px;
+	 z-index:41;
+} 
+
+ #VectorSmartObjectcop_0 
+{ 
+	 left: 304px; 
+	 top: 432px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:42;
+} 
+
+ #VectorSmartObjectcop_1 
+{ 
+	 left: 304px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:43;
+} 
+
+ #VectorSmartObjectcop_2 
+{ 
+	 left: 304px; 
+	 top: 528px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:44;
+} 
+
+ #VectorSmartObjectcop_3 
+{ 
+	 left: 304px; 
+	 top: 576px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:45;
+} 
+
+ #VectorSmartObjectcop_4 
+{ 
+	 left: 304px; 
+	 top: 624px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:46;
+} 
+
+ #VectorSmartObjectcop_5 
+{ 
+	 left: 304px; 
+	 top: 672px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:47;
+} 
+
+ #VectorSmartObjectcop_6 
+{ 
+	 left: 304px; 
+	 top: 720px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:48;
+} 
+
+ #VectorSmartObjectcop_7 
+{ 
+	 left: 304px; 
+	 top: 768px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:49;
+} 
+
+ #VectorSmartObjectcop_8 
+{ 
+	 left: 304px; 
+	 top: 816px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:50;
+} 
+
+ #VectorSmartObjectcop_9 
+{ 
+	 left: 304px; 
+	 top: 864px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:51;
+} 
+
+ #VectorSmartObjectcop_10 
+{ 
+	 left: 304px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:52;
+} 
+
+ #VectorSmartObjectcop_11 
+{ 
+	 left: 304px; 
+	 top: 960px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:53;
+} 
+
+ #VectorSmartObjectcop_12 
+{ 
+	 left: 304px; 
+	 top: 1008px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:54;
+} 
+
+ #VectorSmartObjectcop_13 
+{ 
+	 left: 304px; 
+	 top: 1056px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:55;
+} 
+
+ #VectorSmartObjectcop_14 
+{ 
+	 left: 304px; 
+	 top: 1104px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:56;
+} 
+
+ #VectorSmartObjectcop_15 
+{ 
+	 left: 304px; 
+	 top: 1152px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:57;
+} 
+
+ #Shape172 
+{ 
+	 left: -7px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1608px;
+	 height: 118px;
+	 z-index:58;
+} 
+
+ #Shape156 
+{ 
+	 left: 1144px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 38px;
+	 z-index:59;
+} 
+
+ #signup 
+{ 
+	 left: 1175px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 8px;
+	 z-index:60;
+} 
+
+ #Shape156copy 
+{ 
+	 left: 1255px; 
+	 top: 39px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 38px;
+	 z-index:61;
+} 
+
+ #Shape169 
+{ 
+	 left: 1265px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 23px;
+	 z-index:62;
+} 
+
+ #Layer496 
+{ 
+	 left: 1266px; 
+	 top: 48px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 21px;
+	 z-index:63;
+} 
+
+ #eng 
+{ 
+	 left: 1299px; 
+	 top: 54px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 8px;
+	 z-index:64;
+} 
+
+ #TeamFAQ 
+{ 
+	 left: 680px; 
+	 top: 52px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 10px;
+	 z-index:65;
+} 
+
+ #ueclogo 
+{ 
+	 left: 258px; 
+	 top: 17px; 
+	 position: absolute; 
+	 width: 156px;
+	 height: 68px;
+	 z-index:66;
+} 
