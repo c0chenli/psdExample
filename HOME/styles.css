@@ -1,0 +1,2587 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1600px;
+	 height: 8134px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 8134px;
+	 z-index:1;
+} 
+
+ #Shape167 
+{ 
+	 left: -2px; 
+	 top: 7591px; 
+	 position: absolute; 
+	 width: 1603px;
+	 height: 544px;
+	 z-index:2;
+} 
+
+ #Layer472 
+{ 
+	 left: 1173px; 
+	 top: 7670px; 
+	 position: absolute; 
+	 width: 427px;
+	 height: 446px;
+	 z-index:3;
+} 
+
+ #UEC2018AllRightsRese 
+{ 
+	 left: 887px; 
+	 top: 7987px; 
+	 position: absolute; 
+	 width: 215px;
+	 height: 12px;
+	 z-index:4;
+} 
+
+ #AboutUsUECisanewtype 
+{ 
+	 left: 889px; 
+	 top: 7828px; 
+	 position: absolute; 
+	 width: 448px;
+	 height: 126px;
+	 z-index:5;
+} 
+
+ #Shape161 
+{ 
+	 left: 255px; 
+	 top: 7923px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 49px;
+	 z-index:6;
+} 
+
+ #Shape161copy 
+{ 
+	 left: 254px; 
+	 top: 7917px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 57px;
+	 z-index:7;
+} 
+
+ #DownloadWhitePaper 
+{ 
+	 left: 310px; 
+	 top: 7942px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 9px;
+	 z-index:8;
+} 
+
+ #simple42512copy 
+{ 
+	 left: 277px; 
+	 top: 7936px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:9;
+} 
+
+ #simple42512 
+{ 
+	 left: 277px; 
+	 top: 7936px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:10;
+} 
+
+ #Shape163 
+{ 
+	 left: 733px; 
+	 top: 7926px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:11;
+} 
+
+ #Shape163copy 
+{ 
+	 left: 683px; 
+	 top: 7926px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:12;
+} 
+
+ #Shape163copy2 
+{ 
+	 left: 632px; 
+	 top: 7926px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:13;
+} 
+
+ #Shape163copy3 
+{ 
+	 left: 581px; 
+	 top: 7926px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:14;
+} 
+
+ #Shape163copy4 
+{ 
+	 left: 530px; 
+	 top: 7926px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:15;
+} 
+
+ #Layer476 
+{ 
+	 left: 745px; 
+	 top: 7939px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:16;
+} 
+
+ #Layer459 
+{ 
+	 left: 697px; 
+	 top: 7937px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 17px;
+	 z-index:17;
+} 
+
+ #Twitter128Copy 
+{ 
+	 left: 595px; 
+	 top: 7940px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 16px;
+	 z-index:18;
+} 
+
+ #Facebook128 
+{ 
+	 left: 547px; 
+	 top: 7938px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 19px;
+	 z-index:19;
+} 
+
+ #play512 
+{ 
+	 left: 645px; 
+	 top: 7942px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 13px;
+	 z-index:20;
+} 
+
+ #Shape161_0 
+{ 
+	 left: 254px; 
+	 top: 7841px; 
+	 position: absolute; 
+	 width: 527px;
+	 height: 57px;
+	 z-index:21;
+} 
+
+ #Shape161copy2 
+{ 
+	 left: 623px; 
+	 top: 7847px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 46px;
+	 z-index:22;
+} 
+
+ #EnterYourEmailAddres 
+{ 
+	 left: 291px; 
+	 top: 7863px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 11px;
+	 z-index:23;
+} 
+
+ #subscribe 
+{ 
+	 left: 663px; 
+	 top: 7865px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 9px;
+	 z-index:24;
+} 
+
+ #Shape171copy28 
+{ 
+	 left: 1470px; 
+	 top: 7291px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 46px;
+	 z-index:25;
+} 
+
+ #Shape171copy30 
+{ 
+	 left: 1508px; 
+	 top: 7429px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 42px;
+	 z-index:26;
+} 
+
+ #Shape171copy22 
+{ 
+	 left: 1423px; 
+	 top: 7468px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 79px;
+	 z-index:27;
+} 
+
+ #ICODailyHeaderLogo60 
+{ 
+	 left: 670px; 
+	 top: 7409px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 39px;
+	 z-index:28;
+} 
+
+ #DQmZ1cMZXmYM66LgrgXg 
+{ 
+	 left: 1058px; 
+	 top: 7405px; 
+	 position: absolute; 
+	 width: 284px;
+	 height: 49px;
+	 z-index:29;
+} 
+
+ #logoblack 
+{ 
+	 left: 253px; 
+	 top: 7400px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 60px;
+	 z-index:30;
+} 
+
+ #DashLogoVectorDigita 
+{ 
+	 left: 527px; 
+	 top: 7529px; 
+	 position: absolute; 
+	 width: 226px;
+	 height: 35px;
+	 z-index:31;
+} 
+
+ #DU16eFxX4AAjXKJ 
+{ 
+	 left: 831px; 
+	 top: 7526px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 38px;
+	 z-index:32;
+} 
+
+ #Press 
+{ 
+	 left: 729px; 
+	 top: 7303px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 38px;
+	 z-index:33;
+} 
+
+ #Shape185copy9 
+{ 
+	 left: 223px; 
+	 top: 6571px; 
+	 position: absolute; 
+	 width: 1204px;
+	 height: 753px;
+	 z-index:34;
+} 
+
+ #Shape186copy 
+{ 
+	 left: 907px; 
+	 top: 6595px; 
+	 position: absolute; 
+	 width: 505px;
+	 height: 581px;
+	 z-index:35;
+} 
+
+ #Shape185copy7 
+{ 
+	 left: 166px; 
+	 top: 6589px; 
+	 position: absolute; 
+	 width: 1345px;
+	 height: 669px;
+	 z-index:36;
+} 
+
+ #Shape185copy6 
+{ 
+	 left: 223px; 
+	 top: 6571px; 
+	 position: absolute; 
+	 width: 1204px;
+	 height: 753px;
+	 z-index:37;
+} 
+
+ #Shape171copy29 
+{ 
+	 left: 74px; 
+	 top: 6956px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 47px;
+	 z-index:38;
+} 
+
+ #Shape171copy23 
+{ 
+	 left: 88px; 
+	 top: 7075px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 83px;
+	 z-index:39;
+} 
+
+ #Shape190copy3 
+{ 
+	 left: 807px; 
+	 top: 6992px; 
+	 position: absolute; 
+	 width: 497px;
+	 height: 82px;
+	 z-index:40;
+} 
+
+ #Shape161copy_0 
+{ 
+	 left: 1027px; 
+	 top: 7004px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 57px;
+	 z-index:41;
+} 
+
+ #DownloadWhitePaper_0 
+{ 
+	 left: 1083px; 
+	 top: 7029px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 9px;
+	 z-index:42;
+} 
+
+ #simple42512_0 
+{ 
+	 left: 1050px; 
+	 top: 7023px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:43;
+} 
+
+ #onepagewhitepaper 
+{ 
+	 left: 836px; 
+	 top: 7030px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 9px;
+	 z-index:44;
+} 
+
+ #Shape190 
+{ 
+	 left: 293px; 
+	 top: 6993px; 
+	 position: absolute; 
+	 width: 497px;
+	 height: 82px;
+	 z-index:45;
+} 
+
+ #Shape161copy_1 
+{ 
+	 left: 514px; 
+	 top: 7004px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 57px;
+	 z-index:46;
+} 
+
+ #DownloadWhitePaper_1 
+{ 
+	 left: 570px; 
+	 top: 7029px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 9px;
+	 z-index:47;
+} 
+
+ #simple42512_1 
+{ 
+	 left: 537px; 
+	 top: 7023px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:48;
+} 
+
+ #Chineseversion 
+{ 
+	 left: 361px; 
+	 top: 7030px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 9px;
+	 z-index:49;
+} 
+
+ #Shape190copy2 
+{ 
+	 left: 807px; 
+	 top: 6894px; 
+	 position: absolute; 
+	 width: 497px;
+	 height: 82px;
+	 z-index:50;
+} 
+
+ #Shape161copy_2 
+{ 
+	 left: 1027px; 
+	 top: 6905px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 57px;
+	 z-index:51;
+} 
+
+ #DownloadWhitePaper_2 
+{ 
+	 left: 1083px; 
+	 top: 6930px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 9px;
+	 z-index:52;
+} 
+
+ #simple42512_2 
+{ 
+	 left: 1050px; 
+	 top: 6924px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:53;
+} 
+
+ #technicalwhitepaper 
+{ 
+	 left: 836px; 
+	 top: 6931px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 9px;
+	 z-index:54;
+} 
+
+ #Shape190copy 
+{ 
+	 left: 293px; 
+	 top: 6894px; 
+	 position: absolute; 
+	 width: 497px;
+	 height: 82px;
+	 z-index:55;
+} 
+
+ #Shape161copy_3 
+{ 
+	 left: 514px; 
+	 top: 6905px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 57px;
+	 z-index:56;
+} 
+
+ #DownloadWhitePaper_3 
+{ 
+	 left: 570px; 
+	 top: 6930px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 9px;
+	 z-index:57;
+} 
+
+ #simple42512_3 
+{ 
+	 left: 537px; 
+	 top: 6924px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:58;
+} 
+
+ #Englishversion 
+{ 
+	 left: 361px; 
+	 top: 6931px; 
+	 position: absolute; 
+	 width: 121px;
+	 height: 9px;
+	 z-index:59;
+} 
+
+ #WhitepaperDocuments 
+{ 
+	 left: 485px; 
+	 top: 6783px; 
+	 position: absolute; 
+	 width: 629px;
+	 height: 47px;
+	 z-index:60;
+} 
+
+ #Shape189 
+{ 
+	 left: -1px; 
+	 top: 6110px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 446px;
+	 z-index:61;
+} 
+
+ #Shape189copy 
+{ 
+	 left: -4px; 
+	 top: 6171px; 
+	 position: absolute; 
+	 width: 1607px;
+	 height: 386px;
+	 z-index:62;
+} 
+
+ #Shape164 
+{ 
+	 left: 254px; 
+	 top: 6152px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:63;
+} 
+
+ #awesometeamcopy2 
+{ 
+	 left: 250px; 
+	 top: 6147px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 207px;
+	 z-index:64;
+} 
+
+ #LouiGuFounder 
+{ 
+	 left: 322px; 
+	 top: 6373px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 32px;
+	 z-index:65;
+} 
+
+ #Shape164_0 
+{ 
+	 left: 544px; 
+	 top: 6152px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:66;
+} 
+
+ #awesometeam2 
+{ 
+	 left: 541px; 
+	 top: 6151px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:67;
+} 
+
+ #BlairCoFounder 
+{ 
+	 left: 605px; 
+	 top: 6373px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 32px;
+	 z-index:68;
+} 
+
+ #Shape164_1 
+{ 
+	 left: 854px; 
+	 top: 6152px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:69;
+} 
+
+ #awesometeam3copy2 
+{ 
+	 left: 850px; 
+	 top: 6151px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:70;
+} 
+
+ #JeffLinCTO 
+{ 
+	 left: 921px; 
+	 top: 6373px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 32px;
+	 z-index:71;
+} 
+
+ #Shape164_2 
+{ 
+	 left: 1143px; 
+	 top: 6152px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:72;
+} 
+
+ #awesometeam4copy 
+{ 
+	 left: 1142px; 
+	 top: 6149px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:73;
+} 
+
+ #LeiWangEncryptionTec 
+{ 
+	 left: 1167px; 
+	 top: 6373px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 50px;
+	 z-index:74;
+} 
+
+ #Advisors 
+{ 
+	 left: 680px; 
+	 top: 6041px; 
+	 position: absolute; 
+	 width: 236px;
+	 height: 43px;
+	 z-index:75;
+} 
+
+ #Shape189_0 
+{ 
+	 left: -1px; 
+	 top: 5389px; 
+	 position: absolute; 
+	 width: 1604px;
+	 height: 518px;
+	 z-index:76;
+} 
+
+ #Shape189copy_0 
+{ 
+	 left: -4px; 
+	 top: 5401px; 
+	 position: absolute; 
+	 width: 1605px;
+	 height: 440px;
+	 z-index:77;
+} 
+
+ #Shape164_3 
+{ 
+	 left: 254px; 
+	 top: 5697px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:78;
+} 
+
+ #awesometeam3copy 
+{ 
+	 left: 250px; 
+	 top: 5696px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:79;
+} 
+
+ #DavidZhangFundPartne 
+{ 
+	 left: 298px; 
+	 top: 5918px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 32px;
+	 z-index:80;
+} 
+
+ #Shape164_4 
+{ 
+	 left: 544px; 
+	 top: 5697px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:81;
+} 
+
+ #awesometeamcopy 
+{ 
+	 left: 537px; 
+	 top: 5699px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:82;
+} 
+
+ #GaryMckaeFinancialAd 
+{ 
+	 left: 589px; 
+	 top: 5918px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 32px;
+	 z-index:83;
+} 
+
+ #Shape164_5 
+{ 
+	 left: 854px; 
+	 top: 5697px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:84;
+} 
+
+ #awesometeam4 
+{ 
+	 left: 852px; 
+	 top: 5691px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:85;
+} 
+
+ #GregoryEStubbsAutofi 
+{ 
+	 left: 876px; 
+	 top: 5918px; 
+	 position: absolute; 
+	 width: 160px;
+	 height: 35px;
+	 z-index:86;
+} 
+
+ #Shape164_6 
+{ 
+	 left: 1143px; 
+	 top: 5697px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:87;
+} 
+
+ #awesometeam3 
+{ 
+	 left: 1141px; 
+	 top: 5696px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:88;
+} 
+
+ #AlanAbergelFinancial 
+{ 
+	 left: 1184px; 
+	 top: 5918px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 35px;
+	 z-index:89;
+} 
+
+ #Shape164_7 
+{ 
+	 left: 254px; 
+	 top: 5403px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:90;
+} 
+
+ #awesometeamcopy2_0 
+{ 
+	 left: 250px; 
+	 top: 5397px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 207px;
+	 z-index:91;
+} 
+
+ #LouiGuFounder_0 
+{ 
+	 left: 322px; 
+	 top: 5624px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 32px;
+	 z-index:92;
+} 
+
+ #Shape164_8 
+{ 
+	 left: 544px; 
+	 top: 5403px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:93;
+} 
+
+ #awesometeam2_0 
+{ 
+	 left: 541px; 
+	 top: 5391px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:94;
+} 
+
+ #LouiGuFounder_1 
+{ 
+	 left: 612px; 
+	 top: 5624px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 32px;
+	 z-index:95;
+} 
+
+ #Shape188 
+{ 
+	 left: 486px; 
+	 top: 5520px; 
+	 position: absolute; 
+	 width: 317px;
+	 height: 231px;
+	 z-index:96;
+} 
+
+ #BlairCoFounderHarvar 
+{ 
+	 left: 535px; 
+	 top: 5567px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 140px;
+	 z-index:97;
+} 
+
+ #layer_01 
+{ 
+	 left: 685px; 
+	 top: 5511px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 22px;
+	 z-index:98;
+} 
+
+ #Shape164_9 
+{ 
+	 left: 854px; 
+	 top: 5403px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:99;
+} 
+
+ #awesometeam3copy2_0 
+{ 
+	 left: 850px; 
+	 top: 5402px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:100;
+} 
+
+ #JeffLinCTO_0 
+{ 
+	 left: 921px; 
+	 top: 5624px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 32px;
+	 z-index:101;
+} 
+
+ #Shape164_10 
+{ 
+	 left: 1143px; 
+	 top: 5403px; 
+	 position: absolute; 
+	 width: 202px;
+	 height: 202px;
+	 z-index:102;
+} 
+
+ #awesometeam4copy_0 
+{ 
+	 left: 1142px; 
+	 top: 5400px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 208px;
+	 z-index:103;
+} 
+
+ #LeiWangEncryptionTec_0 
+{ 
+	 left: 1167px; 
+	 top: 5624px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 50px;
+	 z-index:104;
+} 
+
+ #Team 
+{ 
+	 left: 721px; 
+	 top: 5312px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 39px;
+	 z-index:105;
+} 
+
+ #Shape185copy 
+{ 
+	 left: 75px; 
+	 top: 4440px; 
+	 position: absolute; 
+	 width: 1396px;
+	 height: 869px;
+	 z-index:106;
+} 
+
+ #Shape185copy4 
+{ 
+	 left: 96px; 
+	 top: 3985px; 
+	 position: absolute; 
+	 width: 2368px;
+	 height: 2197px;
+	 z-index:107;
+} 
+
+ #Shape185 
+{ 
+	 left: 38px; 
+	 top: 4364px; 
+	 position: absolute; 
+	 width: 1446px;
+	 height: 875px;
+	 z-index:108;
+} 
+
+ #Shape185copy2 
+{ 
+	 left: 75px; 
+	 top: 4440px; 
+	 position: absolute; 
+	 width: 1396px;
+	 height: 869px;
+	 z-index:109;
+} 
+
+ #Shape185copy3 
+{ 
+	 left: 96px; 
+	 top: 3985px; 
+	 position: absolute; 
+	 width: 2368px;
+	 height: 2197px;
+	 z-index:110;
+} 
+
+ #Untitled1copy 
+{ 
+	 left: 258px; 
+	 top: 4469px; 
+	 position: absolute; 
+	 width: 981px;
+	 height: 476px;
+	 z-index:111;
+} 
+
+ #Shape171copy27 
+{ 
+	 left: 35px; 
+	 top: 5203px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 46px;
+	 z-index:112;
+} 
+
+ #Shape171copy25 
+{ 
+	 left: 62px; 
+	 top: 5270px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 74px;
+	 z-index:113;
+} 
+
+ #Shape171copy26 
+{ 
+	 left: 1364px; 
+	 top: 5123px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:114;
+} 
+
+ #Shape171copy24 
+{ 
+	 left: 1436px; 
+	 top: 5035px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 83px;
+	 z-index:115;
+} 
+
+ #Shape183 
+{ 
+	 left: 363px; 
+	 top: 4739px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 263px;
+	 z-index:116;
+} 
+
+ #Shape184 
+{ 
+	 left: 357px; 
+	 top: 4736px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:117;
+} 
+
+ #Shape184copy 
+{ 
+	 left: 357px; 
+	 top: 4796px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:118;
+} 
+
+ #Shape184copy2 
+{ 
+	 left: 357px; 
+	 top: 4856px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:119;
+} 
+
+ #Shape184copy3 
+{ 
+	 left: 357px; 
+	 top: 4926px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:120;
+} 
+
+ #Shape184copy4 
+{ 
+	 left: 357px; 
+	 top: 4986px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:121;
+} 
+
+ #layer_20162017201820192020 
+{ 
+	 left: 409px; 
+	 top: 4733px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 273px;
+	 z-index:122;
+} 
+
+ #Q12018TheProductivis 
+{ 
+	 left: 615px; 
+	 top: 4723px; 
+	 position: absolute; 
+	 width: 518px;
+	 height: 316px;
+	 z-index:123;
+} 
+
+ #Roadmap 
+{ 
+	 left: 682px; 
+	 top: 4602px; 
+	 position: absolute; 
+	 width: 235px;
+	 height: 45px;
+	 z-index:124;
+} 
+
+ #Shape168copy11 
+{ 
+	 left: -1585px; 
+	 top: 3312px; 
+	 position: absolute; 
+	 width: 2060px;
+	 height: 1826px;
+	 z-index:125;
+} 
+
+ #Shape168copy10 
+{ 
+	 left: -1573px; 
+	 top: 3076px; 
+	 position: absolute; 
+	 width: 2008px;
+	 height: 1826px;
+	 z-index:126;
+} 
+
+ #Shape168copy12 
+{ 
+	 left: 1240px; 
+	 top: 3136px; 
+	 position: absolute; 
+	 width: 1962px;
+	 height: 1826px;
+	 z-index:127;
+} 
+
+ #Shape168copy12_0 
+{ 
+	 left: 1256px; 
+	 top: 3399px; 
+	 position: absolute; 
+	 width: 1930px;
+	 height: 1826px;
+	 z-index:128;
+} 
+
+ #Shape171copy15 
+{ 
+	 left: 55px; 
+	 top: 4506px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 79px;
+	 z-index:129;
+} 
+
+ #Shape171copy13 
+{ 
+	 left: 148px; 
+	 top: 4432px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:130;
+} 
+
+ #Shape171copy18 
+{ 
+	 left: 1448px; 
+	 top: 4318px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 113px;
+	 z-index:131;
+} 
+
+ #Shape171copy20 
+{ 
+	 left: 1456px; 
+	 top: 3872px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 109px;
+	 z-index:132;
+} 
+
+ #Shape171copy16 
+{ 
+	 left: 1400px; 
+	 top: 3591px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 79px;
+	 z-index:133;
+} 
+
+ #Shape171copy14 
+{ 
+	 left: 1324px; 
+	 top: 3725px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:134;
+} 
+
+ #Shape171copy17 
+{ 
+	 left: -20px; 
+	 top: 4067px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 113px;
+	 z-index:135;
+} 
+
+ #Shape171copy21 
+{ 
+	 left: 43px; 
+	 top: 3680px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 93px;
+	 z-index:136;
+} 
+
+ #LCFCoinisakindoftoke 
+{ 
+	 left: 869px; 
+	 top: 4156px; 
+	 position: absolute; 
+	 width: 405px;
+	 height: 181px;
+	 z-index:137;
+} 
+
+ #GECCoinCorporationOw 
+{ 
+	 left: 1018px; 
+	 top: 4010px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 44px;
+	 z-index:138;
+} 
+
+ #Layer482copy 
+{ 
+	 left: 803px; 
+	 top: 4045px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 79px;
+	 z-index:139;
+} 
+
+ #Shape179copy2 
+{ 
+	 left: 839px; 
+	 top: 3933px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 156px;
+	 z-index:140;
+} 
+
+ #Shape179 
+{ 
+	 left: 845px; 
+	 top: 3931px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 151px;
+	 z-index:141;
+} 
+
+ #Layer494 
+{ 
+	 left: 883px; 
+	 top: 3976px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 61px;
+	 z-index:142;
+} 
+
+ #Shape180 
+{ 
+	 left: 806px; 
+	 top: 3901px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 176px;
+	 z-index:143;
+} 
+
+ #Shape179copy 
+{ 
+	 left: 862px; 
+	 top: 3950px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 114px;
+	 z-index:144;
+} 
+
+ #UniversalElectronicC 
+{ 
+	 left: 334px; 
+	 top: 4156px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 157px;
+	 z-index:145;
+} 
+
+ #UECCoinBaseCurrency 
+{ 
+	 left: 456px; 
+	 top: 4010px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 44px;
+	 z-index:146;
+} 
+
+ #Layer482 
+{ 
+	 left: 584px; 
+	 top: 4045px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 79px;
+	 z-index:147;
+} 
+
+ #Shape179copy2_0 
+{ 
+	 left: 606px; 
+	 top: 3933px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 156px;
+	 z-index:148;
+} 
+
+ #Shape179_0 
+{ 
+	 left: 612px; 
+	 top: 3931px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 151px;
+	 z-index:149;
+} 
+
+ #Layer493 
+{ 
+	 left: 652px; 
+	 top: 3972px; 
+	 position: absolute; 
+	 width: 58px;
+	 height: 69px;
+	 z-index:150;
+} 
+
+ #Shape180_0 
+{ 
+	 left: 573px; 
+	 top: 3901px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 176px;
+	 z-index:151;
+} 
+
+ #Shape179copy_0 
+{ 
+	 left: 629px; 
+	 top: 3950px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 114px;
+	 z-index:152;
+} 
+
+ #UECArchitecture 
+{ 
+	 left: 589px; 
+	 top: 3827px; 
+	 position: absolute; 
+	 width: 420px;
+	 height: 38px;
+	 z-index:153;
+} 
+
+ #layer_154 
+{ 
+	 left: 763px; 
+	 top: 4014px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 8px;
+	 z-index:154;
+} 
+
+ #Differentcompaniesca 
+{ 
+	 left: 310px; 
+	 top: 3534px; 
+	 position: absolute; 
+	 width: 441px;
+	 height: 90px;
+	 z-index:155;
+} 
+
+ #Businessesthatformac 
+{ 
+	 left: 857px; 
+	 top: 3534px; 
+	 position: absolute; 
+	 width: 429px;
+	 height: 87px;
+	 z-index:156;
+} 
+
+ #layer_157 
+{ 
+	 left: 796px; 
+	 top: 3511px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 145px;
+	 z-index:157;
+} 
+
+ #layer_158 
+{ 
+	 left: 487px; 
+	 top: 2768px; 
+	 position: absolute; 
+	 width: 623px;
+	 height: 615px;
+	 z-index:158;
+} 
+
+ #layer_159 
+{ 
+	 left: 485px; 
+	 top: 2762px; 
+	 position: absolute; 
+	 width: 632px;
+	 height: 628px;
+	 z-index:159;
+} 
+
+ #Shape176 
+{ 
+	 left: 1081px; 
+	 top: 2952px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 29px;
+	 z-index:160;
+} 
+
+ #Shape176copy 
+{ 
+	 left: 903px; 
+	 top: 3362px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 27px;
+	 z-index:161;
+} 
+
+ #Shape176copy2 
+{ 
+	 left: 480px; 
+	 top: 3162px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 29px;
+	 z-index:162;
+} 
+
+ #Shape176copy3 
+{ 
+	 left: 678px; 
+	 top: 2760px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 28px;
+	 z-index:163;
+} 
+
+ #Shape178 
+{ 
+	 left: 520px; 
+	 top: 2800px; 
+	 position: absolute; 
+	 width: 556px;
+	 height: 556px;
+	 z-index:164;
+} 
+
+ #Shape178copy 
+{ 
+	 left: 541px; 
+	 top: 2821px; 
+	 position: absolute; 
+	 width: 514px;
+	 height: 514px;
+	 z-index:165;
+} 
+
+ #Shape178copy2 
+{ 
+	 left: 562px; 
+	 top: 2842px; 
+	 position: absolute; 
+	 width: 472px;
+	 height: 472px;
+	 z-index:166;
+} 
+
+ #Shape178copy3 
+{ 
+	 left: 582px; 
+	 top: 2862px; 
+	 position: absolute; 
+	 width: 431px;
+	 height: 431px;
+	 z-index:167;
+} 
+
+ #Layer488 
+{ 
+	 left: 1034px; 
+	 top: 3009px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 128px;
+	 z-index:168;
+} 
+
+ #Layer487 
+{ 
+	 left: 434px; 
+	 top: 3009px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 128px;
+	 z-index:169;
+} 
+
+ #Layer486 
+{ 
+	 left: 734px; 
+	 top: 3315px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 128px;
+	 z-index:170;
+} 
+
+ #Layer485 
+{ 
+	 left: 737px; 
+	 top: 2714px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 128px;
+	 z-index:171;
+} 
+
+ #LCFMutualBenefitEnti 
+{ 
+	 left: 637px; 
+	 top: 3019px; 
+	 position: absolute; 
+	 width: 336px;
+	 height: 93px;
+	 z-index:172;
+} 
+
+ #Shape168copy9 
+{ 
+	 left: 940px; 
+	 top: 1708px; 
+	 position: absolute; 
+	 width: 2038px;
+	 height: 1852px;
+	 z-index:173;
+} 
+
+ #Shape168copy8 
+{ 
+	 left: 1119px; 
+	 top: 1995px; 
+	 position: absolute; 
+	 width: 1964px;
+	 height: 1852px;
+	 z-index:174;
+} 
+
+ #Shape171copy11 
+{ 
+	 left: 1517px; 
+	 top: 3356px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:175;
+} 
+
+ #Shape171copy6 
+{ 
+	 left: 1423px; 
+	 top: 3218px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 79px;
+	 z-index:176;
+} 
+
+ #Shape171copy12 
+{ 
+	 left: 1448px; 
+	 top: 3034px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:177;
+} 
+
+ #Shape173copy9 
+{ 
+	 left: 1313px; 
+	 top: 1892px; 
+	 position: absolute; 
+	 width: 369px;
+	 height: 441px;
+	 z-index:178;
+} 
+
+ #EducationIndustry 
+{ 
+	 left: 1433px; 
+	 top: 2172px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 39px;
+	 z-index:179;
+} 
+
+ #aami498128 
+{ 
+	 left: 1427px; 
+	 top: 2071px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 73px;
+	 z-index:180;
+} 
+
+ #Shape173copy8 
+{ 
+	 left: 1049px; 
+	 top: 1979px; 
+	 position: absolute; 
+	 width: 357px;
+	 height: 448px;
+	 z-index:181;
+} 
+
+ #ManufacturingIndustr 
+{ 
+	 left: 1160px; 
+	 top: 2277px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 39px;
+	 z-index:182;
+} 
+
+ #aami437256 
+{ 
+	 left: 1176px; 
+	 top: 2168px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 95px;
+	 z-index:183;
+} 
+
+ #Shape173copy7 
+{ 
+	 left: 907px; 
+	 top: 2286px; 
+	 position: absolute; 
+	 width: 382px;
+	 height: 413px;
+	 z-index:184;
+} 
+
+ #TransportationIndust 
+{ 
+	 left: 1030px; 
+	 top: 2521px; 
+	 position: absolute; 
+	 width: 137px;
+	 height: 39px;
+	 z-index:185;
+} 
+
+ #aami766512 
+{ 
+	 left: 1055px; 
+	 top: 2440px; 
+	 position: absolute; 
+	 width: 104px;
+	 height: 68px;
+	 z-index:186;
+} 
+
+ #Shape173copy6 
+{ 
+	 left: 1189px; 
+	 top: 2421px; 
+	 position: absolute; 
+	 width: 379px;
+	 height: 444px;
+	 z-index:187;
+} 
+
+ #FoodBeverageIndustry 
+{ 
+	 left: 1298px; 
+	 top: 2708px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 39px;
+	 z-index:188;
+} 
+
+ #layer_579128 
+{ 
+	 left: 1325px; 
+	 top: 2590px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 93px;
+	 z-index:189;
+} 
+
+ #EcosystemDevelopment 
+{ 
+	 left: 356px; 
+	 top: 2317px; 
+	 position: absolute; 
+	 width: 443px;
+	 height: 210px;
+	 z-index:190;
+} 
+
+ #Shape168copy6 
+{ 
+	 left: -1317px; 
+	 top: 955px; 
+	 position: absolute; 
+	 width: 1951px;
+	 height: 1865px;
+	 z-index:191;
+} 
+
+ #Shape168copy7 
+{ 
+	 left: -1420px; 
+	 top: 1255px; 
+	 position: absolute; 
+	 width: 2054px;
+	 height: 1852px;
+	 z-index:192;
+} 
+
+ #Shape171copy5 
+{ 
+	 left: 53px; 
+	 top: 2566px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 79px;
+	 z-index:193;
+} 
+
+ #Shape171copy10 
+{ 
+	 left: 125px; 
+	 top: 2481px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:194;
+} 
+
+ #Shape171copy9 
+{ 
+	 left: 45px; 
+	 top: 2770px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:195;
+} 
+
+ #Shape173copy2 
+{ 
+	 left: -17px; 
+	 top: 1376px; 
+	 position: absolute; 
+	 width: 381px;
+	 height: 381px;
+	 z-index:196;
+} 
+
+ #CarRentalStores1400 
+{ 
+	 left: 83px; 
+	 top: 1598px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 44px;
+	 z-index:197;
+} 
+
+ #aami1707128 
+{ 
+	 left: 126px; 
+	 top: 1480px; 
+	 position: absolute; 
+	 width: 103px;
+	 height: 108px;
+	 z-index:198;
+} 
+
+ #Shape173copy4 
+{ 
+	 left: 258px; 
+	 top: 1322px; 
+	 position: absolute; 
+	 width: 360px;
+	 height: 360px;
+	 z-index:199;
+} 
+
+ #RepairShops100 
+{ 
+	 left: 385px; 
+	 top: 1530px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 44px;
+	 z-index:200;
+} 
+
+ #aami231128 
+{ 
+	 left: 388px; 
+	 top: 1413px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 106px;
+	 z-index:201;
+} 
+
+ #Shape173copy5 
+{ 
+	 left: 370px; 
+	 top: 1590px; 
+	 position: absolute; 
+	 width: 378px;
+	 height: 378px;
+	 z-index:202;
+} 
+
+ #DevelopingCenter02 
+{ 
+	 left: 483px; 
+	 top: 1797px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 44px;
+	 z-index:203;
+} 
+
+ #aami2391282 
+{ 
+	 left: 526px; 
+	 top: 1680px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:204;
+} 
+
+ #Shape173copy3 
+{ 
+	 left: 54px; 
+	 top: 1672px; 
+	 position: absolute; 
+	 width: 387px;
+	 height: 387px;
+	 z-index:205;
+} 
+
+ #CarBodyAdvertisers10 
+{ 
+	 left: 159px; 
+	 top: 1886px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 47px;
+	 z-index:206;
+} 
+
+ #aami1544128 
+{ 
+	 left: 205px; 
+	 top: 1780px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 89px;
+	 z-index:207;
+} 
+
+ #ANewBusinessModelofC 
+{ 
+	 left: 799px; 
+	 top: 1636px; 
+	 position: absolute; 
+	 width: 475px;
+	 height: 286px;
+	 z-index:208;
+} 
+
+ #UECsVisionUEChopesto 
+{ 
+	 left: 323px; 
+	 top: 1060px; 
+	 position: absolute; 
+	 width: 951px;
+	 height: 187px;
+	 z-index:209;
+} 
+
+ #Shape171copy8 
+{ 
+	 left: 1532px; 
+	 top: 1406px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:210;
+} 
+
+ #Shape171copy7 
+{ 
+	 left: 1396px; 
+	 top: 1283px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 83px;
+	 z-index:211;
+} 
+
+ #Shape171copy19 
+{ 
+	 left: 1513px; 
+	 top: 1136px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 112px;
+	 z-index:212;
+} 
+
+ #Shape171copy2 
+{ 
+	 left: 1462px; 
+	 top: 1019px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 77px;
+	 z-index:213;
+} 
+
+ #Shape171copy4 
+{ 
+	 left: 1340px; 
+	 top: 924px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:214;
+} 
+
+ #Shape168copy3 
+{ 
+	 left: -104px; 
+	 top: -390px; 
+	 position: absolute; 
+	 width: 1845px;
+	 height: 1374px;
+	 z-index:215;
+} 
+
+ #Shape168copy 
+{ 
+	 left: -104px; 
+	 top: -403px; 
+	 position: absolute; 
+	 width: 1801px;
+	 height: 1390px;
+	 z-index:216;
+} 
+
+ #Shape168copy4 
+{ 
+	 left: 767px; 
+	 top: -326px; 
+	 position: absolute; 
+	 width: 1319px;
+	 height: 1409px;
+	 z-index:217;
+} 
+
+ #Shape168copy5 
+{ 
+	 left: 457px; 
+	 top: -203px; 
+	 position: absolute; 
+	 width: 1726px;
+	 height: 1385px;
+	 z-index:218;
+} 
+
+ #Shape171 
+{ 
+	 left: 1378px; 
+	 top: 683px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 126px;
+	 z-index:219;
+} 
+
+ #Shape171copy 
+{ 
+	 left: 998px; 
+	 top: 701px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 103px;
+	 z-index:220;
+} 
+
+ #Shape171copy3 
+{ 
+	 left: 901px; 
+	 top: 773px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 46px;
+	 z-index:221;
+} 
+
+ #Layer495 
+{ 
+	 left: 1199px; 
+	 top: 63px; 
+	 position: absolute; 
+	 width: 401px;
+	 height: 585px;
+	 z-index:222;
+} 
+
+ #Shape161_1 
+{ 
+	 left: 255px; 
+	 top: 601px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 49px;
+	 z-index:223;
+} 
+
+ #Shape161copy_4 
+{ 
+	 left: 254px; 
+	 top: 595px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 57px;
+	 z-index:224;
+} 
+
+ #DownloadWhitePaper_4 
+{ 
+	 left: 310px; 
+	 top: 620px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 9px;
+	 z-index:225;
+} 
+
+ #simple42512copy_0 
+{ 
+	 left: 277px; 
+	 top: 614px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:226;
+} 
+
+ #simple42512_4 
+{ 
+	 left: 277px; 
+	 top: 614px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 21px;
+	 z-index:227;
+} 
+
+ #Shape163_0 
+{ 
+	 left: 733px; 
+	 top: 604px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:228;
+} 
+
+ #Shape163copy_0 
+{ 
+	 left: 683px; 
+	 top: 604px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:229;
+} 
+
+ #Shape163copy2_0 
+{ 
+	 left: 632px; 
+	 top: 604px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:230;
+} 
+
+ #Shape163copy3_0 
+{ 
+	 left: 581px; 
+	 top: 604px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:231;
+} 
+
+ #Shape163copy4_0 
+{ 
+	 left: 530px; 
+	 top: 604px; 
+	 position: absolute; 
+	 width: 45px;
+	 height: 45px;
+	 z-index:232;
+} 
+
+ #Layer476_0 
+{ 
+	 left: 745px; 
+	 top: 617px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 17px;
+	 z-index:233;
+} 
+
+ #Layer459_0 
+{ 
+	 left: 697px; 
+	 top: 615px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 17px;
+	 z-index:234;
+} 
+
+ #Twitter128Copy_0 
+{ 
+	 left: 595px; 
+	 top: 618px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 16px;
+	 z-index:235;
+} 
+
+ #Facebook128_0 
+{ 
+	 left: 547px; 
+	 top: 616px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 19px;
+	 z-index:236;
+} 
+
+ #play512_0 
+{ 
+	 left: 645px; 
+	 top: 620px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 13px;
+	 z-index:237;
+} 
+
+ #Shape161_2 
+{ 
+	 left: 254px; 
+	 top: 519px; 
+	 position: absolute; 
+	 width: 527px;
+	 height: 57px;
+	 z-index:238;
+} 
+
+ #Shape161copy2_0 
+{ 
+	 left: 623px; 
+	 top: 525px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 46px;
+	 z-index:239;
+} 
+
+ #EnterYourEmailAddres_0 
+{ 
+	 left: 291px; 
+	 top: 541px; 
+	 position: absolute; 
+	 width: 188px;
+	 height: 11px;
+	 z-index:240;
+} 
+
+ #subscribe_0 
+{ 
+	 left: 663px; 
+	 top: 543px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 9px;
+	 z-index:241;
+} 
+
+ #BenotifiedwhenthePre 
+{ 
+	 left: 257px; 
+	 top: 488px; 
+	 position: absolute; 
+	 width: 317px;
+	 height: 13px;
+	 z-index:242;
+} 
+
+ #Layer483 
+{ 
+	 left: 778px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 685px;
+	 height: 195px;
+	 z-index:243;
+} 
+
+ #Shape168 
+{ 
+	 left: 860px; 
+	 top: 267px; 
+	 position: absolute; 
+	 width: 481px;
+	 height: 329px;
+	 z-index:244;
+} 
+
+ #Layer481 
+{ 
+	 left: 812px; 
+	 top: 210px; 
+	 position: absolute; 
+	 width: 589px;
+	 height: 387px;
+	 z-index:245;
+} 
+
+ #Shape172 
+{ 
+	 left: 1045px; 
+	 top: 376px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 110px;
+	 z-index:246;
+} 
+
+ #Shape170 
+{ 
+	 left: 1089px; 
+	 top: 418px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 28px;
+	 z-index:247;
+} 
+
+ #WATCHINTROVIDEO10MIN 
+{ 
+	 left: 1011px; 
+	 top: 625px; 
+	 position: absolute; 
+	 width: 176px;
+	 height: 28px;
+	 z-index:248;
+} 
+
+ #Loremisumdolorsitame 
+{ 
+	 left: 257px; 
+	 top: 284px; 
+	 position: absolute; 
+	 width: 525px;
+	 height: 168px;
+	 z-index:249;
+} 
+
+ #Shape156 
+{ 
+	 left: 1142px; 
+	 top: 52px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 38px;
+	 z-index:250;
+} 
+
+ #signup 
+{ 
+	 left: 1173px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 8px;
+	 z-index:251;
+} 
+
+ #Shape156copy 
+{ 
+	 left: 1253px; 
+	 top: 52px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 38px;
+	 z-index:252;
+} 
+
+ #Shape169 
+{ 
+	 left: 1263px; 
+	 top: 60px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 23px;
+	 z-index:253;
+} 
+
+ #Layer496 
+{ 
+	 left: 1264px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 21px;
+	 z-index:254;
+} 
+
+ #eng 
+{ 
+	 left: 1297px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 8px;
+	 z-index:255;
+} 
+
+ #TeamFAQ 
+{ 
+	 left: 678px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 242px;
+	 height: 10px;
+	 z-index:256;
+} 
+
+ #ueclogo 
+{ 
+	 left: 256px; 
+	 top: 29px; 
+	 position: absolute; 
+	 width: 172px;
+	 height: 75px;
+	 z-index:257;
+} 
